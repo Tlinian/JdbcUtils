@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/mysql-factory" />
+            <option value="$PROJECT_DIR$/utils-change" />
+            <option value="$PROJECT_DIR$/utils-common" />
+            <option value="$PROJECT_DIR$/utils-dialect" />
+            <option value="$PROJECT_DIR$/utils-driver" />
+            <option value="$PROJECT_DIR$/utils-factory" />
+            <option value="$PROJECT_DIR$/utils-factory/mysql-factory" />
+            <option value="$PROJECT_DIR$/utils-main" />
+            <option value="$PROJECT_DIR$/utils-query" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

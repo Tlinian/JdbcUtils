@@ -1,0 +1,12 @@
+rootProject.name = 'JdbcUtils'
+include 'utils-dialect'
+include 'utils-query'
+include 'utils-change'
+include 'utils-common'
+include 'utils-driver'
+include 'utils-main'
+include 'utils-factory'
+include 'mysql-factory'
+include 'utils-factory:mysql-factory'
+findProject(':utils-factory:mysql-factory')?.name = 'mysql-factory'
+
